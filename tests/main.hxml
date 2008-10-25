@@ -1,0 +1,5 @@
+-swf main.swf
+-swf-version 10
+-main Main
+-cp ../
+
