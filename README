@@ -1,0 +1,12 @@
+hxas3corelib - select packages of as3corelib converted to haxe
+
+If you're converting an actionscript 3 library that relies on 
+Adobe's as3corelib, you may find these converted packages useful.
+
+
+serialization/json
+crypto/MD5
+crypto/SHA1
+
+Additional utilities:
+utils/Base64 - the  standard haXe version does not behave like mx.utils.Base64Encoder
